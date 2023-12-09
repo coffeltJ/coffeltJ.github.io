@@ -9,7 +9,7 @@ This page was originally built to host my final project for my Introduction to M
 ## The Final Project
 For my final project, I utilized a dataset containining data on various characteristics of nearly 4,500 undergraduate students at the Polytechnic Insitute of Portalegre, Portugal. I apply three different classifier machine learning models to this data to determine relationships between the characteristics and academic success. 
 
-You can find the report [here](assets/Coffelt_Final_Project_Report.pdf)
+You can find the report [here](assets/Coffelt_Final_Project_Report_(1).pdf)
 
 and the code [here](https://colab.research.google.com/drive/1EgkMPqkqtLmrOZYlbSGCjYLyC3LXV7y0?usp=sharing)
 
